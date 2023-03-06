@@ -1,11 +1,11 @@
-#Data Analysis with Python by freeCodeCamp 
+#  Data Analysis with Python by freeCodeCamp 
 
 In this repository, I apply my knowledges on different projects, made by freeCodeCamp, 
 Numpy, Pandas, Matplotlib, Seaborn and Scipy librairies Python in order to process, visualize and make predictions.
 
 You can find out what each one is about if you access them individually, 
 
-*Mean-Variance-Standard Deviation Calculator 
+* Mean-Variance-Standard Deviation Calculator 
 Function that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix.
 *Demographic Data Analyzer 
 Analysis of demographic data using Pandas. The dataset contains demographic data extracted from the 1994 Census database.
